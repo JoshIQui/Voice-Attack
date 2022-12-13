@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   frequencyResistance: 35
-  fallSpeed: 4
+  fallSpeed: 5
 --- !u!60 &-7547641929285576007
 PolygonCollider2D:
   m_ObjectHideFlags: 0

@@ -535,7 +535,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5652773055688119714, guid: 84e1a69ac14ff7f42b4eb5bed1e3e847, type: 3}
       propertyPath: frequencyResistance
-      value: 40
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 8110333647381597206, guid: 84e1a69ac14ff7f42b4eb5bed1e3e847, type: 3}
       propertyPath: m_BodyType
